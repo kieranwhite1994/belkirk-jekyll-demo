@@ -1,0 +1,9 @@
+---
+label: packages
+hide_body: false
+fields:
+- type: text
+  name: name
+  label: name
+  config:
+    required: true
